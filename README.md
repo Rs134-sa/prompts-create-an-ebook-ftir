@@ -7,9 +7,11 @@
 
 # Projeto EBOOK Gerado por I.A.s
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 Título do ebook "FTIR Desvendada: A linguagem vibracional da matéria".
 Ebook sobre Espectroscopia do Infravermelho por Transformada de Fourier (FTIR) com os capítulos de Introdução, Métodos, Processamento, Interpretação e Aplicações.
+
+[Clique aqui para ler](Ebook_FTIR.pdf)
 
 ## 💻 Tecnologias utilizadas no projeto
 
